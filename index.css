@@ -1,0 +1,25 @@
+.special.paragraph {
+    color: brown;
+}
+
+.paragraph {
+    color:rgb(47, 4, 117);
+}
+
+.list {
+    background-color: rgb(161, 122, 224);
+    border: 1px solid black;
+    padding: 20px;
+}
+
+/* .listItem {
+    color: rgb(255, 255, 255);
+} */
+
+.list .listItem {
+    color: rgb(255, 255, 255);
+}
+.listItem:last-child {
+    color:orange;
+}
+
